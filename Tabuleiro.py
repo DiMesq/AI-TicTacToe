@@ -1,3 +1,5 @@
+from Coordenada import *
+
 # TAD Tabuleiro    
 class Tabuleiro(object):
     '''Tabuleiro 3x3 representado internamente por uma lista, iniciado vazio.'''

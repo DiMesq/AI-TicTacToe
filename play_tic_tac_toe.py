@@ -1,5 +1,7 @@
-# Funcoes de jogo
-        
+# Funcoes de jogo 
+from Tabuleiro import *
+from Coordenada import *
+from jogaGalo import *
 def validPlay(play):
     s = play
             
